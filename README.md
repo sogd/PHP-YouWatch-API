@@ -2,7 +2,7 @@
  A Web Service for the YouWatch API
  
  ## VERSION API
-0.01
+0.02
 
 ## DEPENDENCIES
 
